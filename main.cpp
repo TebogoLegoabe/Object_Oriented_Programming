@@ -33,6 +33,7 @@ class Employee:abstractEmployee
     {
         Name = name;
         Company = company;
+
         Age = age;
     };
     void introduce_yourself()
@@ -102,5 +103,6 @@ int main()
    obj3.Work();
     obj.Work();
     
+    //this is awesome
 std::cin.get();
 }
