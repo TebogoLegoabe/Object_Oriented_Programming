@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/user/practice/c_programming",
-      "program": "c:/Users/user/practice/c_programming/build/Debug/outDebug",
+      "cwd": "c:/Users/user/OneDrive/Desktop/C++/ELEN3009/Object_Oriented_Programming",
+      "program": "c:/Users/user/OneDrive/Desktop/C++/ELEN3009/Object_Oriented_Programming/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
